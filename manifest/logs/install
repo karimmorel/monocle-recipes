@@ -1,0 +1,30 @@
+============================================
+Log Created: 2020-03-13T14:13:09+00:00
+============================================
+Symphony Log
+Opened:  2020-03-13T14:13:09+00:00
+Version: 2.7.10
+Domain:  localhost:8888/monocle-recipes
+--------------------------------------------
+
+============================================
+INSTALLATION PROCESS STARTED (2020-03-13T14:13:51+00:00)
+============================================
+03/13/2020 2:13 pm > Notice: MYSQL: Establishing Connection
+03/13/2020 2:13 pm > Notice: MYSQL: Importing Table Schema
+03/13/2020 2:13 pm > Notice: MYSQL: Creating Default Author
+03/13/2020 2:13 pm > Notice: WRITING: Creating ‘manifest’ folder (/manifest)
+03/13/2020 2:13 pm > Notice: WRITING: Creating ‘logs’ folder (/manifest/logs)
+03/13/2020 2:13 pm > Notice: WRITING: Creating ‘cache’ folder (/manifest/cache)
+03/13/2020 2:13 pm > Notice: WRITING: Creating ‘tmp’ folder (/manifest/tmp)
+03/13/2020 2:13 pm > Notice: WRITING: Configuration File
+03/13/2020 2:13 pm > Notice: CONFIGURING: Frontend
+03/13/2020 2:13 pm > Notice: An existing ‘workspace’ directory was found at this location. Symphony will use this workspace.
+03/13/2020 2:13 pm > Notice: MYSQL: Importing Workspace Data...
+03/13/2020 2:13 pm > Notice: CONFIGURING: Installing existing extensions
+============================================
+INSTALLATION COMPLETED: Execution Time - 1 sec (13.03.20 14:13:52)
+============================================
+
+
+

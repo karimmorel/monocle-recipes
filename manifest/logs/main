@@ -1,0 +1,11 @@
+============================================
+Log Created: 2020-03-13T14:13:55+00:00
+============================================
+Symphony Log
+Opened:  2020-03-13T14:13:55+00:00
+Version: 2.7.10
+Domain:  localhost:8888/monocle-recipes
+--------------------------------------------
+03/13/2020 2:35 pm > Warning: GenericErrorHandler 2: mysqli_connect(): MySQL server has gone away on line 354 of file /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/toolkit/class.mysql.php
+03/13/2020 2:35 pm > Fatal Error: SymphonyErrorPage 0 - 2006: MySQL server has gone away on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 2:37 pm > User Notice: FrontendPageNotFoundException 1024 - The page you requested does not exist. on line 330 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/toolkit/class.frontendpage.php
