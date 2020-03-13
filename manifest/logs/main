@@ -9,3 +9,144 @@ Domain:  localhost:8888/monocle-recipes
 03/13/2020 2:35 pm > Warning: GenericErrorHandler 2: mysqli_connect(): MySQL server has gone away on line 354 of file /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/toolkit/class.mysql.php
 03/13/2020 2:35 pm > Fatal Error: SymphonyErrorPage 0 - 2006: MySQL server has gone away on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
 03/13/2020 2:37 pm > User Notice: FrontendPageNotFoundException 1024 - The page you requested does not exist. on line 330 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/toolkit/class.frontendpage.php
+03/13/2020 4:23 pm > User Notice: FrontendPageNotFoundException 1024 - The page you requested does not exist. on line 330 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/toolkit/class.frontendpage.php
+03/13/2020 4:26 pm > Fatal Error: SymphonyErrorPage 0 - Line: 172 - XSLTProcessor::transformToXml(): runtime error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/content.xsl line 63 element input
+Line: 172 - XSLTProcessor::transformToXml(): Variable 'ds-recipe-page.name' has not been declared.
+Line: 172 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 172 - XSLTProcessor::transformToXml(): runtime error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/content.xsl line 63 element input
+Line: 172 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'. on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:28 pm > Fatal Error: SymphonyErrorPage 0 - Line: 172 - XSLTProcessor::transformToXml(): runtime error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/content.xsl line 63 element input
+Line: 172 - XSLTProcessor::transformToXml(): Variable 'ds-recipe-page.name' has not been declared.
+Line: 172 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 172 - XSLTProcessor::transformToXml(): runtime error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/content.xsl line 63 element input
+Line: 172 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'. on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:28 pm > Fatal Error: SymphonyErrorPage 0 - Line: 172 - XSLTProcessor::transformToXml(): runtime error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/content.xsl line 63 element input
+Line: 172 - XSLTProcessor::transformToXml(): Variable 'ds-recipe-page.name' has not been declared.
+Line: 172 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 172 - XSLTProcessor::transformToXml(): runtime error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/content.xsl line 63 element input
+Line: 172 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'. on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:28 pm > Fatal Error: SymphonyErrorPage 0 - Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:31: parser error : Opening and ending tag mismatch: h1 line 31 and unparseable
+Line: 158 - XSLTProcessor::importStylesheet(): <h1>Welcome to Monocle Recipes</>
+Line: 158 - XSLTProcessor::importStylesheet():                                  ^
+Line: 158 - XSLTProcessor::importStylesheet(): compilation error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/pages/home.xsl line 5 element include
+Line: 158 - XSLTProcessor::importStylesheet(): xsl:include : unable to load /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl
+Line: 172 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:29 pm > Fatal Error: SymphonyErrorPage 0 - Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:34: parser error : Opening and ending tag mismatch: h1 line 31 and body
+Line: 158 - XSLTProcessor::importStylesheet(): </body>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:36: parser error : Opening and ending tag mismatch: body line 20 and html
+Line: 158 - XSLTProcessor::importStylesheet(): </html>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:37: parser error : Opening and ending tag mismatch: html line 7 and xsl:template
+Line: 158 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 158 - XSLTProcessor::importStylesheet():                ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:40: parser error : Opening and ending tag mismatch: template line 5 and stylesheet
+Line: 158 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 158 - XSLTProcessor::importStylesheet():                  ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:41: parser error : Premature end of data in tag stylesheet line 2
+Line: 158 - XSLTProcessor::importStylesheet(): 
+Line: 158 - XSLTProcessor::importStylesheet(): ^
+Line: 158 - XSLTProcessor::importStylesheet(): compilation error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/pages/home.xsl line 5 element include
+Line: 158 - XSLTProcessor::importStylesheet(): xsl:include : unable to load /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl
+Line: 172 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:31 pm > Fatal Error: SymphonyErrorPage 0 - Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:34: parser error : attributes construct error
+Line: 158 - XSLTProcessor::importStylesheet(): <p><a href="http://monocle.karimmorel.fr/admin"</p>
+Line: 158 - XSLTProcessor::importStylesheet():                                                ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:34: parser error : Couldn't find end of Start Tag a line 34
+Line: 158 - XSLTProcessor::importStylesheet(): <p><a href="http://monocle.karimmorel.fr/admin"</p>
+Line: 158 - XSLTProcessor::importStylesheet():                                                ^
+Line: 158 - XSLTProcessor::importStylesheet(): compilation error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/pages/home.xsl line 5 element include
+Line: 158 - XSLTProcessor::importStylesheet(): xsl:include : unable to load /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl
+Line: 172 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:32 pm > Fatal Error: SymphonyErrorPage 0 - Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:59: parser error : Opening and ending tag mismatch: body line 20 and div
+Line: 158 - XSLTProcessor::importStylesheet(): </div>
+Line: 158 - XSLTProcessor::importStylesheet():       ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:61: parser error : Opening and ending tag mismatch: html line 7 and body
+Line: 158 - XSLTProcessor::importStylesheet(): </body>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:63: parser error : Opening and ending tag mismatch: template line 5 and html
+Line: 158 - XSLTProcessor::importStylesheet(): </html>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:64: parser error : Opening and ending tag mismatch: stylesheet line 2 and template
+Line: 158 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 158 - XSLTProcessor::importStylesheet():                ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:65: parser error : Extra content at the end of the document
+Line: 158 - XSLTProcessor::importStylesheet(): <xsl:include href="./content.xsl"/>
+Line: 158 - XSLTProcessor::importStylesheet(): ^
+Line: 158 - XSLTProcessor::importStylesheet(): compilation error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/pages/home.xsl line 5 element include
+Line: 158 - XSLTProcessor::importStylesheet(): xsl:include : unable to load /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl
+Line: 172 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:34 pm > Fatal Error: SymphonyErrorPage 0 - The page you requested does not exist. on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:34 pm > Fatal Error: SymphonyErrorPage 0 - Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:52: parser error : Opening and ending tag mismatch: body line 20 and div
+Line: 158 - XSLTProcessor::importStylesheet(): </div>
+Line: 158 - XSLTProcessor::importStylesheet():       ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:54: parser error : Opening and ending tag mismatch: html line 7 and body
+Line: 158 - XSLTProcessor::importStylesheet(): </body>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:56: parser error : Opening and ending tag mismatch: template line 5 and html
+Line: 158 - XSLTProcessor::importStylesheet(): </html>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:57: parser error : Opening and ending tag mismatch: stylesheet line 2 and template
+Line: 158 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 158 - XSLTProcessor::importStylesheet():                ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:58: parser error : Extra content at the end of the document
+Line: 158 - XSLTProcessor::importStylesheet(): <xsl:include href="./content.xsl"/>
+Line: 158 - XSLTProcessor::importStylesheet(): ^
+Line: 158 - XSLTProcessor::importStylesheet(): compilation error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/pages/home.xsl line 5 element include
+Line: 158 - XSLTProcessor::importStylesheet(): xsl:include : unable to load /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl
+Line: 172 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): Entity: line 52: parser error : Opening and ending tag mismatch: body line 20 and div on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): </div> on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct():       ^ on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): Entity: line 54: parser error : Opening and ending tag mismatch: html line 7 and body on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): </body> on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct():        ^ on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): Entity: line 56: parser error : Opening and ending tag mismatch: template line 5 and html on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): </html> on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct():        ^ on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): Entity: line 57: parser error : Opening and ending tag mismatch: stylesheet line 2 and template on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): </xsl:template> on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct():                ^ on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): Entity: line 58: parser error : Extra content at the end of the document on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): <xsl:include href="./content.xsl"/> on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:34 pm > Warning: GenericErrorHandler 2: SimpleXMLElement::__construct(): ^ on line 201 of file /Applications/MAMP/htdocs/monocle-recipes/extensions/debugdevkit/content/content.debug.php
+03/13/2020 4:35 pm > Fatal Error: SymphonyErrorPage 0 - Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:47: parser error : Opening and ending tag mismatch: body line 20 and div
+Line: 158 - XSLTProcessor::importStylesheet(): </div>
+Line: 158 - XSLTProcessor::importStylesheet():       ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:49: parser error : Opening and ending tag mismatch: html line 7 and body
+Line: 158 - XSLTProcessor::importStylesheet(): </body>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:51: parser error : Opening and ending tag mismatch: template line 5 and html
+Line: 158 - XSLTProcessor::importStylesheet(): </html>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:52: parser error : Opening and ending tag mismatch: stylesheet line 2 and template
+Line: 158 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 158 - XSLTProcessor::importStylesheet():                ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:53: parser error : Extra content at the end of the document
+Line: 158 - XSLTProcessor::importStylesheet(): <xsl:include href="./content.xsl"/>
+Line: 158 - XSLTProcessor::importStylesheet(): ^
+Line: 158 - XSLTProcessor::importStylesheet(): compilation error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/pages/home.xsl line 5 element include
+Line: 158 - XSLTProcessor::importStylesheet(): xsl:include : unable to load /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl
+Line: 172 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:36 pm > Fatal Error: SymphonyErrorPage 0 - Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:47: parser error : Opening and ending tag mismatch: body line 20 and div
+Line: 158 - XSLTProcessor::importStylesheet(): </div>
+Line: 158 - XSLTProcessor::importStylesheet():       ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:49: parser error : Opening and ending tag mismatch: html line 7 and body
+Line: 158 - XSLTProcessor::importStylesheet(): </body>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:51: parser error : Opening and ending tag mismatch: template line 5 and html
+Line: 158 - XSLTProcessor::importStylesheet(): </html>
+Line: 158 - XSLTProcessor::importStylesheet():        ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:52: parser error : Opening and ending tag mismatch: stylesheet line 2 and template
+Line: 158 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 158 - XSLTProcessor::importStylesheet():                ^
+Line: 158 - XSLTProcessor::importStylesheet(): /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl:54: parser error : Extra content at the end of the document
+Line: 158 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 158 - XSLTProcessor::importStylesheet(): ^
+Line: 158 - XSLTProcessor::importStylesheet(): compilation error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/pages/home.xsl line 5 element include
+Line: 158 - XSLTProcessor::importStylesheet(): xsl:include : unable to load /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl
+Line: 172 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
+03/13/2020 4:42 pm > Fatal Error: SymphonyErrorPage 0 - Line: 158 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 158 - XSLTProcessor::importStylesheet(): compilation error: file /Applications/MAMP/htdocs/monocle-recipes/workspace/theme/pages/homepage.xsl line 36 element for-each
+Line: 158 - XSLTProcessor::importStylesheet(): xsl:for-each : could not compile select expression 'all-recipes/entry/'
+Line: 172 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 653 of /Applications/MAMP/htdocs/monocle-recipes/symphony/lib/core/class.symphony.php
